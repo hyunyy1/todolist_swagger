@@ -1,0 +1,8 @@
+swagger: '2.0'
+tags:
+  - name: common
+    description: 'todoList api'
+paths:
+  $ref:
+    - '#/resource/todolist.yaml'
+definitions: {}

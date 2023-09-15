@@ -1,0 +1,9 @@
+{
+    "name": "gfin-guru-swagger",
+    "script":"./app.js",
+    "watch": true,
+    "interpreter": "node",
+    "env": {
+      "NODE_ENV": "production"   // "development" or "production"
+    }
+}
